@@ -14,7 +14,7 @@
 - 💬 Ask me about **React**
 
 <h3 align="center">About Me</h3>
-Hi, I'm Shri Vishnu. I'm pursuing III year B.E. Computer Science Engineering. I'm a web developer and having quite a lot of knowledge in Front-End technologies like React, JavaScript, CSS, Bootstrap, and Back-End technologies like MongoDB,MySQL,Node.js,EJS templates,GitHub.My hobbies are watching science friction movies and watching video's about recent technologies
+Hi, I'm Shri Vishnu. I'm pursuing III year B.E. in Computer Science Engineering. I'm a web developer with experience in front-end technologies such as React, JavaScript, CSS, and Bootstrap, as well as back-end technologies such as MongoDB, MySQL, Node.js, EJS templates, and GitHub.My hobbies are watching science fiction movies and watching videos about recent technologies.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

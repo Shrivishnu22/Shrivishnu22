@@ -18,7 +18,7 @@ Hi, I'm Shri Vishnu. I'm pursuing my 3rd year of B.E. in Computer Science Engine
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="www.linkedin.com/in/shri-vishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shri-vishnu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shri-vishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shri-vishnu" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/shrivishnu22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/shrivishnu22" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shrivishnu_22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shrivishnu_22" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shrivishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shrivishnu" height="30" width="40" /></a>

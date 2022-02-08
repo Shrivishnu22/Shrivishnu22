@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shri Vishnu !!!</h1>
-<h3 align="center">Full-stack developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <img alt="This is background profile picture" src="https://github.com/Shrivishnu22/Shrivishnu22/blob/main/profile.gif">

@@ -17,6 +17,11 @@
 <p align="center">
 Hi, I'm Shri Vishnu.I'm pursuing my 3rd year of B.E. in Computer Science Engineering. I'm a web developer with experience in front-end technologies such as React, JavaScript, CSS, and Bootstrap, as well as back-end technologies such as MongoDB, MySQL, Node.js, EJS templates, and GitHub. My hobbies are watching science fiction movies and watching videos about recent technologies.
   </p>
+<h2 align="center">Life Fact</h2>
+<p align="center">
+  "Expect the <b>Disappointment</b>, <br>
+  You will never get <b>Disappointed! </b>"
+  </p>
 
 
 <h3 align="center">Connect with me:</h3>

@@ -1,22 +1,13 @@
 <img src="https://komarev.com/ghpvc/?username=Shrivishnu22&label=Profile%20views&color=ce9927&style=flat" alt="Shrivishnu22" /> </p>
-<h1 align="center">Hi 👋, I'm Shri Vishnu !!!</h1>
-<h3 align="center">CS UnderGrad Student 🧑🏻‍💻</h3>
+<h1 align="center">Hi 🖖🏻 I'm Shri Vishnu {😇}</h1>
+<h3 align="center"><-- CS UnderGrad Student 🧑🏻‍💻   --></h3>
 
-<p align="center">
-  <img alt="This is background profile picture" src="https://github.com/Shrivishnu22/Shrivishnu22/blob/main/profile.gif">
-</p>
 
 
 <h3 align="center">About Me</h3>
 <p align="center">
-  Hi, This is <b>Shri Vishnu</b> from Trichy. I am currently pursuing my final year B.E. CSE at K. Ramakrishnan College of Technology, Samayauram, Trichy. I am a <b>programmer</b>, and I enjoy using my coding skills to contribute to the exciting technological advances that we come across in our daily lives!
+  I am a <b>passionate coder</b>, and I enjoy using my coding skills to contribute to the exciting technological advances that we come across in our daily lives!
   </p>
-<h2 align="center">Life Fact</h2>
-<p align="center">
-  "Expect the <b>Disappointment</b>, <br>
-  You will never get <b>Disappointed! </b>"
-  </p>
-
 
 <h3 align="center">Connect with Me</h3>
 <div align="center">
@@ -32,7 +23,7 @@
 
 </div>
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">Known Tech Stack</h3>
 
 <p align="center"> 
  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
@@ -48,7 +39,7 @@
 <h1 align="center">Github Stats</h1>
  <div align="center" >
 <img width="43%" src="https://github-readme-stats.vercel.app/api?username=shrivishnu22&theme=tokyonight&show_icons=true"> 
- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrivishnu22&layout=compact&theme=tokyonight">
 </div> 
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrivishnu22")"><img src="https://activity-graph.herokuapp.com/graph?username=shrivishnu22&theme=tokyonight"></div>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrivishnu22")">
+</div>

@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=Shrivishnu22&label=Profile%20views&color=ce9927&style=flat" alt="Shrivishnu22" /> </p>
 <h1 align="center">Hi 🖖🏻 I'm Shri Vishnu {😇}</h1>
-<h3 align="center"><-- CS UnderGrad Student 🧑🏻‍💻   --></h3>
+<h3 align="center"><-- Passionate Coding Enthusiast 🧑🏻‍💻   --></h3>
 
 
 
